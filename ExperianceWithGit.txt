@@ -1,1 +1,1 @@
-Learning GIT from Scratch.
+Learning GIT from Scratch Day 2.
